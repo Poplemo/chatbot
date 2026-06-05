@@ -1,0 +1,8 @@
+appellent:nomme
+nomment:nomme
+s:se
+la:le
+l:le
+les:le
+monaie:monnaie
+peinte:peint
